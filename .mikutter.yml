@@ -1,0 +1,11 @@
+---
+slug: :simple_instance
+depends:
+  mikutter: 3.6.5
+  plugin:
+    - world
+    - spell
+version: '1.0.0'
+author: namotch
+description: >-
+  長いインスタンス名を縮めます。
